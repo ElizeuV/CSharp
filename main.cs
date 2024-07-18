@@ -19,7 +19,7 @@ class Program
         Console.WriteLine("Estes são os dados");
         Console.WriteLine("Rua Olga Benário, 526");
         Console.WriteLine("Anita G./SP");
-        Console.WriteLine("CEP: 07179-840");
+        Console.WriteLine("CEP: 07179840");
     }
 
     public static int ContarLetras(string palavra)
