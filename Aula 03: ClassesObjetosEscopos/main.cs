@@ -2,7 +2,7 @@ using System;
 
 class MainClass {
   public static void Main (string[] args) {
-    Console.WriteLine ("Classess, Objetos e Escopos de Visibilidade. \n");
+    Console.WriteLine ("Classes, Objetos e Escopos de Visibilidade. \n");
 
     Produto p1 = new Produto();
     p1.Nome = "Banana";
