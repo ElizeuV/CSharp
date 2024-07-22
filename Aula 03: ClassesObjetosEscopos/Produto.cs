@@ -15,7 +15,7 @@ class Produto {
       if (value.Length > 1) 
       nome = value;
       else     
-          throw new Exception("Nome do produto           deve ter mais de 2 caracteres");
+          throw new Exception("Nome do produto deve ter mais de 2 caracteres");
     }    
   }
 
