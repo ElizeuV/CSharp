@@ -1,12 +1,11 @@
 using System;
 using System.Text;
 
-class Produto{
+class Produto {
   private string nome;
 
 
-  public string Nome 
-  {
+  public string Nome {
     get 
     { //ler
       return nome;
@@ -22,10 +21,10 @@ class Produto{
 
   public double Preco { get; set; }
 
-  public int Estoque { get; private set; } //pode ser lido, mas so pode ser escrito dentro da classe produto
+  public int Estoque { get; private set; } //pode ser lido, mas so pode ser escrito/alterado dentro da classe produto
 
   public Produto() {
-     this.Estoque = 0;
+     this.Estoque = 0; //this
   }
 
   public Produto(string nome, double preco) {
@@ -37,7 +36,6 @@ class Produto{
   public int Vender(int qtde) {
     if (this.Estoque - qtde >= 0)
     this.Estoque -= qtde;
-
     return this.Estoque;
   }
 
