@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-class Produto {
+class Produto{
   private string nome;
 
 
@@ -24,7 +24,7 @@ class Produto {
 
   public int Estoque { get; private set; } //pode ser lido, mas so pode ser escrito dentro da classe produto
 
-  pubLic Produto() {
+  public Produto() {
      this.Estoque = 0;
   }
 
@@ -47,10 +47,10 @@ class Produto {
   }
 
   public string ObterTexto() {
-    StringBuider sb = new StringBuilder();
+    StringBuilder sb = new StringBuilder();
     sb.Append($"\nNome: {this.Nome}\n");
     sb.Append($"Preço: {this.Preco}\n");
-    sb.aAppend($"Estoque: {this.Estoque}\n");
+    sb.Append($"Estoque: {this.Estoque}\n");
     return sb.ToString();
     
   }
