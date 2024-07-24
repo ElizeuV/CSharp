@@ -49,15 +49,18 @@ class MainClass
                 }
                 else
                     Console.WriteLine("\nNão há produtos cadastrados!");
+                    Console.ReadKey();
                 break;
     
             case "S":
                 
                 Console.WriteLine("\nObrigado por usar o programa. ");
+                Console.ReadKey();
                 break;
                 
         default:
               Console.WriteLine("\nOpção inválida! Tente novamente.");
+              Console.ReadKey();
             break;
             
             }      
