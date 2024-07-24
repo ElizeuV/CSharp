@@ -11,8 +11,9 @@ class MainClass
         
         string comandoEscolhido = "S";
 
-        do  {
-            //exibição do meno
+        do  
+        {
+            //exibição do menu
             Console.Clear();
             Console.WriteLine("Escolha uma opção: \n");
             Console.WriteLine("1 - Cadastrar um novo produto");
@@ -22,42 +23,45 @@ class MainClass
             //leitura da opção desejeada pelo usuário
             Console.Write("Opção desejada: ");
         comandoEscolhido=Console.ReadKey().KeyChar.ToString().ToUpper();
-        switch (comandoEscolhido) {
-        case "1":
-            Console.Write("\nNome do produto: ");
-            string nome = Console.ReadLine();
-            Console.Write("Preço do produto: ");
-            string preco = Console.ReadLine();
-            Produto novoProduto = new Produto(nome, Convert.ToDouble(preco));
-            produtos.Add(novoProduto);
-            Console.WriteLine("Produto adicionado com sucesso!");
-            break;
-
-        case "2":
-            if (produtos.Count > 0) 
-            {
-                Console.WriteLine("\nLista de produtos: \n");
-                foreach (Produto p in produtos) {
-                    Console.WriteLine(p.ObterTexto());
-                }
-                Console.Write("Pressione qualquer tecla para sair....");
+        switch (comandoEscolhido) 
+        {
+            case "1":
+                Console.Write("\nNome do produto: ");
+                string nome = Console.ReadLine();
+                Console.Write("Preço do produto: ");
+                string preco = Console.ReadLine();
+                Produto novoProduto = new Produto(nome, Convert.ToDouble(preco));
+                produtos.Add(novoProduto);
+                Console.WriteLine("Produto adicionado com sucesso!");
                 Console.ReadKey();
-            }
-            else
-                Console.WriteLine("\nNão há produtos cadastrados!");
+                break;
+    
+            case "2":
+                if (produtos.Count > 0) 
+                {
+                    Console.WriteLine("\nLista de produtos: \n");
+                    foreach (Produto p in produtos)
+                    {
+                        Console.WriteLine(p.ObterTexto());
+                    }
+                    Console.Write("Pressione qualquer tecla para sair....");
+                    Console.ReadKey();
+                }
+                else
+                    Console.WriteLine("\nNão há produtos cadastrados!");
+                break;
+    
+            case "S":
+                
+                Console.WriteLine("\nObrigado por usar o programa. ");
+                break;
+                
+        default:
+              Console.WriteLine("\nOpção inválida! Tente novamente.");
             break;
-
-        case "S":
-            
-            Console.WriteLine("\nObrigado por usar o programa. ");
-            break;
-            
-        default: 
-            Console.WriteLine("\nOpção inválida! Tente novamente.")
-
             
             }      
-        }
+        } while (comandoEscolhido != "S");
     }
 }
 
