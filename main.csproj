@@ -3,7 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp7.0</TargetFramework>
-    <StartupObject>ConstrutoresDestrutores.MainClass</StartupObject>
+    
+    <StartupObject>MetodosSobrecarregados.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
