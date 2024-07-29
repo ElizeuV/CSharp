@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp7.0</TargetFramework>
-    
     <StartupObject>MetodosSobrecarregados.Program</StartupObject>
   </PropertyGroup>
 
