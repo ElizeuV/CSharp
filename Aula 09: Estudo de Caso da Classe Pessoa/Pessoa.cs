@@ -16,7 +16,7 @@ namespace Semana5
                 if (value.Length == 11)
                     cpf = value;
                 else
-                    throw new Exception("CPF inválido!");
+                    throw new Exception("CPF inválido!!");
             }
         }
 
