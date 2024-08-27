@@ -1,0 +1,42 @@
+C:\Users\elize\source\repos\Teste\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\elize\source\repos\Teste\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\elize\source\repos\Teste\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\elize\source\repos\Teste\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\elize\source\repos\Teste\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\elize\source\repos\Teste\Teste\obj\Debug\net8.0\ref\Teste.dll
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\net8.0\Teste.exe
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\net8.0\Teste.deps.json
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\net8.0\Teste.dll
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\net8.0\Teste.pdb
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\Teste.dll
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\Teste.pdb
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+C:\Users\elize\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\net8.0\ref\Teste.dll
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\bin\Debug\net8.0\Teste.exe
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\bin\Debug\net8.0\Teste.deps.json
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\bin\Debug\net8.0\Teste.dll
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\bin\Debug\net8.0\Teste.pdb
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\Teste.dll
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\refint\Teste.dll
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\Teste.pdb
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+c:\Users\elize\OneDrive\Área de Trabalho\.NET\Teste\Teste\obj\Debug\net8.0\ref\Teste.dll
